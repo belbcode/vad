@@ -1,0 +1,19 @@
+.active {
+    background-color: green;
+    transition: background-color 1000ms linear;;
+}
+
+.inactive {
+    background-color: red;
+    transition: background-color 1000ms linear;;
+}
+
+.baseline {
+    background-color: grey;
+}
+
+#detect-box {
+    padding: 3rem;
+    border-radius: 1rem;
+    margin: 1rem
+}
